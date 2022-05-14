@@ -18,5 +18,3 @@ os.system("curl -fssL https://deb.nodesource.com/setup_17.x | sudo -E bash - && 
 os.system("sleep 10")
 os.system("git clone https://github.com/TeamYukki/YukkiMusicBot && cd YukkiMusicBot")
 os.system("pip3 install -r requirements.txt")
-os.system("cp sample.env .env")
-os.system("vi .env")
