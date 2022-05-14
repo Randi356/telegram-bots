@@ -40,7 +40,7 @@ logout
 
 ```
 # 2. Ultroid Userbot
-
+```
 step 1: sudo apt-get update -y
 step 2: sudo apt-get upgrade -y
 step 3: sudo apt-get python -y
@@ -63,4 +63,5 @@ ctrl a + d
 
 # aplications
 logout
+```
 
