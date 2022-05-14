@@ -23,9 +23,18 @@ Edit .env with your values or you can simple copy a config from here and paste i
 Press I button on keyboard to start editing.
 Press Ctrl + C  once you are done with editing vars and type :wq to save .env or :qa to exit editing.
 
-Finally Run Yukki Music Bot
+# SCREEN BACKGROUND
+screen -S yukkimusic
 
+# Finally Run Yukki Music Bot
 bash start
+
+# SIMPAN SCREEN 
+ctrl a + d
+
+logout
+
+
 ```
 # 2. Ultroid
 
