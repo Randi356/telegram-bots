@@ -23,6 +23,8 @@ Edit .env with your values or you can simple copy a config from here and paste i
 Press I button on keyboard to start editing.
 Press Ctrl + C  once you are done with editing vars and type :wq to save .env or :qa to exit editing.
 
+ctrl + x # save y enter 
+
 # SCREEN BACKGROUND
 screen -S yukkimusic
 
@@ -32,10 +34,33 @@ bash start
 # SIMPAN SCREEN 
 ctrl a + d
 
+# aplications
 logout
 
 
 ```
-# 2. Ultroid
+# 2. Ultroid Userbot
 
-• next update
+step 1: sudo apt-get update -y
+step 2: sudo apt-get upgrade -y
+step 3: sudo apt-get python -y
+step 4: sudo apt-get install git -y
+step 5: git clone https://github.com/Randi356/telegram-bots && cd telegram-bots
+step 6: python ultroid.py
+step 7: nano .env
+
+# Save vars
+ctrl + x # save y enter 
+
+# SCREEN BACKGROUND
+screen -S Ultroid
+
+# Finally Run Ultroid Userbot
+bash startup
+
+# SIMPAN SCREEN 
+ctrl a + d
+
+# aplications
+logout
+
