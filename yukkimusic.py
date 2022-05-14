@@ -13,6 +13,7 @@ print
 print ("INSTALL YUKKI..........")
 os.system("sleep 10")
 os.system("sudo pip3 install -U pip")
+OS.system("sudo apt-get install screen")
 os.system("sudo apt-get install python3-pip ffmpeg -y")
 os.system("curl -fssL https://deb.nodesource.com/setup_17.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm")
 os.system("sleep 10")
