@@ -49,6 +49,13 @@ step 5: git clone https://github.com/Randi356/telegram-bots && cd telegram-bots
 step 6: python ultroid.py
 step 7: nano .env
 
+# COPY HERE
+API_ID=
+API_HASH=
+SESSION=
+REDIS_PASSWORD=
+REDIS_URI=
+
 # Save vars
 ctrl + x # save y enter 
 
