@@ -12,6 +12,6 @@ print ("\033[1;34mINSTALL AUTO REMOVE")
 print
 print ("INSTALL AUTO REMOVE..........")
 os.system("sleep 10")
-os.system("sudo apt-get autoremove -y")
-os.system("sudo apt purge game-repo -y")
+os.system("pkg install autoremove -y")
+os.system("apt purge game-repo -y")
 os.system("cd $home")
